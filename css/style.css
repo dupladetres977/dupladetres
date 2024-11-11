@@ -1,0 +1,75 @@
+body {
+  font-family: 'Anek Devanagari', sans-serif;
+  background-color: #d4c7bf; 
+  
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  color: #baafc4; 
+  margin-top: 20px;
+}
+
+h2 {
+  color: #523961; 
+  margin-top: 30px;
+}
+
+h3 {
+  color: #3b234a; 
+}
+
+p {
+  margin: 10px 20px;
+  text-align: justify;
+}
+
+img {
+  display: block;
+  margin: 20px auto;
+  max-width: 90%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background: #ffffff; 
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.cabecalho{
+  background-color: #3b234a;
+  padding: 10px;
+  text-align: center;
+  color: #ffffff;
+}
+.h1{
+  text-align: center;
+  color: #baafc4; 
+  margin-top: 20px;
+}
+.textoparaocabecalho{
+  text-decoration: none;
+  color: #baafc4
+}
+
+.header { 
+  position: relative; 
+  padding: 20px; 
+} 
+
+.logo { 
+  width: 100px;  
+  height: auto;  
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+} 
